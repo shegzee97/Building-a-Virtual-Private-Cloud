@@ -23,7 +23,7 @@ This setup is foundational for deploying any application or service on AWS and g
 
 ## 🧱 Architecture Diagram
 
-![Architecture diagram](./VPC diag.drawio.png)
+![Architecture diagram]([./VPC diag.drawio.png](https://github.com/shegzee97/Building-a-Virtual-Private-Cloud/blob/main/VPC%20diag.drawio.png))
 
 
 > _This setup enables internet access for resources (like EC2 instances) launched in the public subnet._
