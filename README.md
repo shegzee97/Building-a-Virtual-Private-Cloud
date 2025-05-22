@@ -108,7 +108,29 @@ This configuration allows any instance launched in the public subnet (with a pub
 
 ---
 
-## 📂 Folder Structure (Recommended)
+
+---
+
+## 🌟 Key Takeaways
+
+- **VPCs** provide isolated environments in the cloud.
+- **Public subnets** are used for resources that need internet access.
+- **Internet Gateways** act as a bridge between your VPC and the internet.
+- **Route Tables** control network traffic routing within your VPC.
+
+---
+
+## 💼 About Me
+
+This project is part of my **AWS Cloud Infrastructure Portfolio** as a beginner in cloud engineering and DevOps. I am passionate about learning scalable cloud solutions and building secure, efficient infrastructures for modern applications.
+
+📧 Reach me on [LinkedIn](#) | 💼 Hire me for your next AWS project!
+
+---
+
+
+
+
 
 
 
